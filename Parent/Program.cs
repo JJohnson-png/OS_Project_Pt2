@@ -3,6 +3,8 @@
 //SECTION: 01
 //DATE: 2/28/2025
 
+//GITHUB: https://github.com/JJohnson-png/OS_Project_Pt2
+
 using System;
 using System.Diagnostics;
 using System.IO;
@@ -19,7 +21,7 @@ class ParentProcess
             Process child = new Process();      // CREATE CHILD PROCESS
             child.StartInfo.FileName = "dotnet";
 
-            child.StartInfo.Arguments = "/home/Jonathan/Desktop/Operating_Systems_Pt2/Child/bin/Debug/net9.0/Child.dll"; // SPECIFY ARGUMENTS TO RUN CHILD DLL
+            child.StartInfo.Arguments = "/home/Jonathan/Desktop/Operating_Systems_Pt2/Child/bin/Debug/net9.0/Child.dll"; // PATH TO CHILD DLL FILE
             child.StartInfo.UseShellExecute = false;
             child.StartInfo.RedirectStandardInput = false;
             child.StartInfo.RedirectStandardOutput = false;
