@@ -1,0 +1,14 @@
+/home/Jonathan/Desktop/Operating_Systems_Pt2/Child/bin/Debug/net9.0/Child
+/home/Jonathan/Desktop/Operating_Systems_Pt2/Child/bin/Debug/net9.0/Child.deps.json
+/home/Jonathan/Desktop/Operating_Systems_Pt2/Child/bin/Debug/net9.0/Child.runtimeconfig.json
+/home/Jonathan/Desktop/Operating_Systems_Pt2/Child/bin/Debug/net9.0/Child.dll
+/home/Jonathan/Desktop/Operating_Systems_Pt2/Child/bin/Debug/net9.0/Child.pdb
+/home/Jonathan/Desktop/Operating_Systems_Pt2/Child/obj/Debug/net9.0/Child.GeneratedMSBuildEditorConfig.editorconfig
+/home/Jonathan/Desktop/Operating_Systems_Pt2/Child/obj/Debug/net9.0/Child.AssemblyInfoInputs.cache
+/home/Jonathan/Desktop/Operating_Systems_Pt2/Child/obj/Debug/net9.0/Child.AssemblyInfo.cs
+/home/Jonathan/Desktop/Operating_Systems_Pt2/Child/obj/Debug/net9.0/Child.csproj.CoreCompileInputs.cache
+/home/Jonathan/Desktop/Operating_Systems_Pt2/Child/obj/Debug/net9.0/Child.dll
+/home/Jonathan/Desktop/Operating_Systems_Pt2/Child/obj/Debug/net9.0/refint/Child.dll
+/home/Jonathan/Desktop/Operating_Systems_Pt2/Child/obj/Debug/net9.0/Child.pdb
+/home/Jonathan/Desktop/Operating_Systems_Pt2/Child/obj/Debug/net9.0/Child.genruntimeconfig.cache
+/home/Jonathan/Desktop/Operating_Systems_Pt2/Child/obj/Debug/net9.0/ref/Child.dll
