@@ -21,7 +21,11 @@ class ParentProcess
             Process child = new Process();      // CREATE CHILD PROCESS
             child.StartInfo.FileName = "dotnet";
 
+
+            /* REPLACE BELOW PATH WITH PATH TO YOUR OWN DLL */
             child.StartInfo.Arguments = "/home/Jonathan/Desktop/Operating_Systems_Pt2/Child/bin/Debug/net9.0/Child.dll"; // PATH TO CHILD DLL FILE
+            
+            
             child.StartInfo.UseShellExecute = false;
             child.StartInfo.RedirectStandardInput = false;
             child.StartInfo.RedirectStandardOutput = false;
